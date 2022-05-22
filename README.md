@@ -28,5 +28,3 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ## Credits
 
  - [Thanks To Me 😜](https://t.me/RoyalKrrishna)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RoyalKrrishna/iPopcornMovies)
